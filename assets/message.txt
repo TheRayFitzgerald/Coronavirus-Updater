@@ -1,0 +1,1 @@
+Total Global Coronavirus Cases: ${corona_total_count}
